@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c_69962c79ba3031.74750554",
+    "name": "John Smith",
+    "phone": "+1 (555) 123-4567",
+    "email": "john@example.com",
+    "category": "General"
+  },
+  {
+    "id": "c_69962c8d974971.10518044",
+    "name": "Jane Doe",
+    "phone": "+1 (555) 987-6543",
+    "email": "jane@example.com",
+    "category": "Friends"
+  }
+]
